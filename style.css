@@ -34,3 +34,9 @@ body {
 	align-items: center;
 }
 
+.carousel-item img {
+	display: block;
+	margin: auto;
+	max-width: 500px;
+	height: auto;
+}
